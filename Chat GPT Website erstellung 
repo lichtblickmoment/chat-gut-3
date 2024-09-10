@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Licht.blick.moment - Fotograf auf Instagram">
+    <title>Licht.blick.moment - Fotograf</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .container {
+            padding: 2rem;
+        }
+        .instagram-link {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.5rem 1rem;
+            background-color: #E1306C;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .instagram-link:hover {
+            background-color: #C13584;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen bei Licht.blick.moment</h1>
+    </header>
+    
+    <div class="container">
+        <h2>Fotograf und Liebhaber des Moments</h2>
+        <p>Ich bin [Dein Name], ein Fotograf, der es liebt, besondere Momente festzuhalten. Schau dir meine Arbeiten auf Instagram an und folge mir für mehr inspirierende Fotos!</p>
+        <a href="https://www.instagram.com/licht.blick.moment" class="instagram-link" target="_blank">Besuche mein Instagram-Profil</a>
+    </div>
+    
+    <footer>
+        <p>&copy; 2024 Licht.blick.moment. Alle Rechte vorbehalten.</p>
+    </footer>
+</body>
+</html>
